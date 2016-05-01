@@ -1,0 +1,14 @@
+{
+  "author": {
+    "name": "Borislava Kirova",
+    "email": "b.kirova999@gmail.com"
+  },
+  "name": "sync",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "./lib"
+  }
+}
+  
+
