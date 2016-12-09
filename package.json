@@ -1,14 +1,22 @@
 {
-  "author": {
-    "name": "Borislava Kirova",
-    "email": "b.kirova999@gmail.com"
-  },
-  "name": "sync",
+  "author": "Borislava Kirova <b.kirova999@gmail.com>",
+  "name": "synkit",
   "version": "1.0.0",
   "main": "lib/index.js",
   "directories": {
     "lib": "./lib"
-  }
+  },
+  "description": "Utility module whitch facilitates the synchronization of Node.js loops and function flows.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bkirova/synkit.git"
+  },
+  "keywords": [
+    "synkit"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bkirova/synkit/issues"
+  },
+  "homepage": "https://github.com/bkirova/synkit#readme"
 }
-  
-
